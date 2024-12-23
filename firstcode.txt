@@ -2,3 +2,6 @@ helo world!!
 how are you?
  i am fine 
  what about you?
+  can you take input from users
+   and add values 
+    to gert 
