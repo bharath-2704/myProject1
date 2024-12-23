@@ -5,3 +5,5 @@ how are you?
   can you take input from users
    and add values 
     to gert 
+     submity to database
+     
